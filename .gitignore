@@ -20,3 +20,11 @@ __pycache__/
 *.pyc
 .tmp/
 .ipynb_checkpoints/
+
+# Task 2 VLN
+task2_vln/dummy_nav_data/
+task2_vln/real_nav_data/
+task2_vln/training_results/
+task2_vln/videos/
+task2_vln/videos_interactive/
+task2_vln/videos_trained/
