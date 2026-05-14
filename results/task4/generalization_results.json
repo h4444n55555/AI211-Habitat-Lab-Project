@@ -1,0 +1,67 @@
+{
+  "baseline": {
+    "loss": 1.0220939531523525,
+    "accuracy": 0.6690997566909975,
+    "per_class_accuracy": {
+      "move_forward": 0.7286821705426356,
+      "turn_left": 0.6065573770491803,
+      "turn_right": 0.6805555555555556,
+      "stop": 0.05
+    },
+    "description": "Original validation set (same distribution as train)"
+  },
+  "unseen_env": {
+    "loss": 1.0380178759567928,
+    "accuracy": 0.6666666666666666,
+    "per_class_accuracy": {
+      "move_forward": 0.7596899224806202,
+      "turn_left": 0.47540983606557374,
+      "turn_right": 0.6666666666666666,
+      "stop": 0.05
+    },
+    "description": "Completely unseen environment"
+  },
+  "paraphrased": {
+    "loss": 1.0850456193753868,
+    "accuracy": 0.6124448799608035,
+    "per_class_accuracy": {
+      "move_forward": 0.6860371267150929,
+      "turn_left": 0.6334519572953736,
+      "turn_right": 0.5130641330166271,
+      "stop": 0.06
+    },
+    "description": "Same tasks, different instruction phrasing"
+  },
+  "data_scaling": {
+    "10": {
+      "loss": 1.0306208774225036,
+      "accuracy": 0.6517412935323383,
+      "per_class_accuracy": {
+        "move_forward": 0.7478260869565218,
+        "turn_left": 0.3333333333333333,
+        "turn_right": 0.625,
+        "stop": 0.1
+      }
+    },
+    "25": {
+      "loss": 1.0259060843785603,
+      "accuracy": 0.6152380952380953,
+      "per_class_accuracy": {
+        "move_forward": 0.6332288401253918,
+        "turn_left": 0.7317073170731707,
+        "turn_right": 0.5858585858585859,
+        "stop": 0.12
+      }
+    },
+    "50": {
+      "loss": 1.0089651252525496,
+      "accuracy": 0.6414538310412574,
+      "per_class_accuracy": {
+        "move_forward": 0.645933014354067,
+        "turn_left": 0.7676056338028169,
+        "turn_right": 0.6834170854271356,
+        "stop": 0.06
+      }
+    }
+  }
+}

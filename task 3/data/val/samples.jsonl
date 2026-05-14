@@ -1,0 +1,327 @@
+{"episode_id": "val_ep_00000", "step_idx": 0, "image": "images/val_ep_00000_step_000.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00000", "step_idx": 1, "image": "images/val_ep_00000_step_001.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 2, "image": "images/val_ep_00000_step_002.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 3, "image": "images/val_ep_00000_step_003.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 4, "image": "images/val_ep_00000_step_004.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 5, "image": "images/val_ep_00000_step_005.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 6, "image": "images/val_ep_00000_step_006.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 7, "image": "images/val_ep_00000_step_007.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 8, "image": "images/val_ep_00000_step_008.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00000", "step_idx": 9, "image": "images/val_ep_00000_step_009.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00001", "step_idx": 0, "image": "images/val_ep_00001_step_000.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00001", "step_idx": 1, "image": "images/val_ep_00001_step_001.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00001", "step_idx": 2, "image": "images/val_ep_00001_step_002.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00001", "step_idx": 3, "image": "images/val_ep_00001_step_003.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00001", "step_idx": 4, "image": "images/val_ep_00001_step_004.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00001", "step_idx": 5, "image": "images/val_ep_00001_step_005.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00001", "step_idx": 6, "image": "images/val_ep_00001_step_006.png", "instruction": "Move forward 6 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00002", "step_idx": 0, "image": "images/val_ep_00002_step_000.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00002", "step_idx": 1, "image": "images/val_ep_00002_step_001.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 2, "image": "images/val_ep_00002_step_002.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 3, "image": "images/val_ep_00002_step_003.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 4, "image": "images/val_ep_00002_step_004.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 5, "image": "images/val_ep_00002_step_005.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 6, "image": "images/val_ep_00002_step_006.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 7, "image": "images/val_ep_00002_step_007.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 8, "image": "images/val_ep_00002_step_008.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00002", "step_idx": 9, "image": "images/val_ep_00002_step_009.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00003", "step_idx": 0, "image": "images/val_ep_00003_step_000.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00003", "step_idx": 1, "image": "images/val_ep_00003_step_001.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00003", "step_idx": 2, "image": "images/val_ep_00003_step_002.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00003", "step_idx": 3, "image": "images/val_ep_00003_step_003.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00003", "step_idx": 4, "image": "images/val_ep_00003_step_004.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00003", "step_idx": 5, "image": "images/val_ep_00003_step_005.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00004", "step_idx": 0, "image": "images/val_ep_00004_step_000.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00004", "step_idx": 1, "image": "images/val_ep_00004_step_001.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00004", "step_idx": 2, "image": "images/val_ep_00004_step_002.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00004", "step_idx": 3, "image": "images/val_ep_00004_step_003.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00004", "step_idx": 4, "image": "images/val_ep_00004_step_004.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00005", "step_idx": 0, "image": "images/val_ep_00005_step_000.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00005", "step_idx": 1, "image": "images/val_ep_00005_step_001.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 2, "image": "images/val_ep_00005_step_002.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 3, "image": "images/val_ep_00005_step_003.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 4, "image": "images/val_ep_00005_step_004.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 5, "image": "images/val_ep_00005_step_005.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 6, "image": "images/val_ep_00005_step_006.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 7, "image": "images/val_ep_00005_step_007.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 8, "image": "images/val_ep_00005_step_008.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00005", "step_idx": 9, "image": "images/val_ep_00005_step_009.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00006", "step_idx": 0, "image": "images/val_ep_00006_step_000.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 1, "image": "images/val_ep_00006_step_001.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 2, "image": "images/val_ep_00006_step_002.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 3, "image": "images/val_ep_00006_step_003.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 4, "image": "images/val_ep_00006_step_004.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 5, "image": "images/val_ep_00006_step_005.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 6, "image": "images/val_ep_00006_step_006.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 7, "image": "images/val_ep_00006_step_007.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00006", "step_idx": 8, "image": "images/val_ep_00006_step_008.png", "instruction": "Move forward 8 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00007", "step_idx": 0, "image": "images/val_ep_00007_step_000.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 1, "image": "images/val_ep_00007_step_001.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 2, "image": "images/val_ep_00007_step_002.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 3, "image": "images/val_ep_00007_step_003.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 4, "image": "images/val_ep_00007_step_004.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 5, "image": "images/val_ep_00007_step_005.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 6, "image": "images/val_ep_00007_step_006.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 7, "image": "images/val_ep_00007_step_007.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00007", "step_idx": 8, "image": "images/val_ep_00007_step_008.png", "instruction": "Move forward 8 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00008", "step_idx": 0, "image": "images/val_ep_00008_step_000.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00008", "step_idx": 1, "image": "images/val_ep_00008_step_001.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00008", "step_idx": 2, "image": "images/val_ep_00008_step_002.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00008", "step_idx": 3, "image": "images/val_ep_00008_step_003.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00008", "step_idx": 4, "image": "images/val_ep_00008_step_004.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00008", "step_idx": 5, "image": "images/val_ep_00008_step_005.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00008", "step_idx": 6, "image": "images/val_ep_00008_step_006.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00008", "step_idx": 7, "image": "images/val_ep_00008_step_007.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00008", "step_idx": 8, "image": "images/val_ep_00008_step_008.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00009", "step_idx": 0, "image": "images/val_ep_00009_step_000.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00009", "step_idx": 1, "image": "images/val_ep_00009_step_001.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00009", "step_idx": 2, "image": "images/val_ep_00009_step_002.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00009", "step_idx": 3, "image": "images/val_ep_00009_step_003.png", "instruction": "Move forward 3 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00010", "step_idx": 0, "image": "images/val_ep_00010_step_000.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00010", "step_idx": 1, "image": "images/val_ep_00010_step_001.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00010", "step_idx": 2, "image": "images/val_ep_00010_step_002.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00010", "step_idx": 3, "image": "images/val_ep_00010_step_003.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00010", "step_idx": 4, "image": "images/val_ep_00010_step_004.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00010", "step_idx": 5, "image": "images/val_ep_00010_step_005.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00010", "step_idx": 6, "image": "images/val_ep_00010_step_006.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00011", "step_idx": 0, "image": "images/val_ep_00011_step_000.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00011", "step_idx": 1, "image": "images/val_ep_00011_step_001.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00011", "step_idx": 2, "image": "images/val_ep_00011_step_002.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00011", "step_idx": 3, "image": "images/val_ep_00011_step_003.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00011", "step_idx": 4, "image": "images/val_ep_00011_step_004.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00011", "step_idx": 5, "image": "images/val_ep_00011_step_005.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00011", "step_idx": 6, "image": "images/val_ep_00011_step_006.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00011", "step_idx": 7, "image": "images/val_ep_00011_step_007.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00011", "step_idx": 8, "image": "images/val_ep_00011_step_008.png", "instruction": "Turn left and move forward 7 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00012", "step_idx": 0, "image": "images/val_ep_00012_step_000.png", "instruction": "Move forward 2 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00012", "step_idx": 1, "image": "images/val_ep_00012_step_001.png", "instruction": "Move forward 2 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00012", "step_idx": 2, "image": "images/val_ep_00012_step_002.png", "instruction": "Move forward 2 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00013", "step_idx": 0, "image": "images/val_ep_00013_step_000.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00013", "step_idx": 1, "image": "images/val_ep_00013_step_001.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00013", "step_idx": 2, "image": "images/val_ep_00013_step_002.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00013", "step_idx": 3, "image": "images/val_ep_00013_step_003.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00013", "step_idx": 4, "image": "images/val_ep_00013_step_004.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00013", "step_idx": 5, "image": "images/val_ep_00013_step_005.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00013", "step_idx": 6, "image": "images/val_ep_00013_step_006.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00014", "step_idx": 0, "image": "images/val_ep_00014_step_000.png", "instruction": "Turn left and move forward 3 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00014", "step_idx": 1, "image": "images/val_ep_00014_step_001.png", "instruction": "Turn left and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00014", "step_idx": 2, "image": "images/val_ep_00014_step_002.png", "instruction": "Turn left and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00014", "step_idx": 3, "image": "images/val_ep_00014_step_003.png", "instruction": "Turn left and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00014", "step_idx": 4, "image": "images/val_ep_00014_step_004.png", "instruction": "Turn left and move forward 3 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00015", "step_idx": 0, "image": "images/val_ep_00015_step_000.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00015", "step_idx": 1, "image": "images/val_ep_00015_step_001.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00015", "step_idx": 2, "image": "images/val_ep_00015_step_002.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00015", "step_idx": 3, "image": "images/val_ep_00015_step_003.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00015", "step_idx": 4, "image": "images/val_ep_00015_step_004.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00015", "step_idx": 5, "image": "images/val_ep_00015_step_005.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00015", "step_idx": 6, "image": "images/val_ep_00015_step_006.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00015", "step_idx": 7, "image": "images/val_ep_00015_step_007.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00016", "step_idx": 0, "image": "images/val_ep_00016_step_000.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00016", "step_idx": 1, "image": "images/val_ep_00016_step_001.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00016", "step_idx": 2, "image": "images/val_ep_00016_step_002.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00016", "step_idx": 3, "image": "images/val_ep_00016_step_003.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00016", "step_idx": 4, "image": "images/val_ep_00016_step_004.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00016", "step_idx": 5, "image": "images/val_ep_00016_step_005.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00016", "step_idx": 6, "image": "images/val_ep_00016_step_006.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00017", "step_idx": 0, "image": "images/val_ep_00017_step_000.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00017", "step_idx": 1, "image": "images/val_ep_00017_step_001.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00017", "step_idx": 2, "image": "images/val_ep_00017_step_002.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00017", "step_idx": 3, "image": "images/val_ep_00017_step_003.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00017", "step_idx": 4, "image": "images/val_ep_00017_step_004.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00017", "step_idx": 5, "image": "images/val_ep_00017_step_005.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00018", "step_idx": 0, "image": "images/val_ep_00018_step_000.png", "instruction": "Turn left and move forward 2 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00018", "step_idx": 1, "image": "images/val_ep_00018_step_001.png", "instruction": "Turn left and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00018", "step_idx": 2, "image": "images/val_ep_00018_step_002.png", "instruction": "Turn left and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00018", "step_idx": 3, "image": "images/val_ep_00018_step_003.png", "instruction": "Turn left and move forward 2 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00019", "step_idx": 0, "image": "images/val_ep_00019_step_000.png", "instruction": "Move forward 2 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00019", "step_idx": 1, "image": "images/val_ep_00019_step_001.png", "instruction": "Move forward 2 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00019", "step_idx": 2, "image": "images/val_ep_00019_step_002.png", "instruction": "Move forward 2 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00020", "step_idx": 0, "image": "images/val_ep_00020_step_000.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00020", "step_idx": 1, "image": "images/val_ep_00020_step_001.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00020", "step_idx": 2, "image": "images/val_ep_00020_step_002.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00020", "step_idx": 3, "image": "images/val_ep_00020_step_003.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00020", "step_idx": 4, "image": "images/val_ep_00020_step_004.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00020", "step_idx": 5, "image": "images/val_ep_00020_step_005.png", "instruction": "Move forward 5 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00021", "step_idx": 0, "image": "images/val_ep_00021_step_000.png", "instruction": "Move forward 4 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00021", "step_idx": 1, "image": "images/val_ep_00021_step_001.png", "instruction": "Move forward 4 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00021", "step_idx": 2, "image": "images/val_ep_00021_step_002.png", "instruction": "Move forward 4 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00021", "step_idx": 3, "image": "images/val_ep_00021_step_003.png", "instruction": "Move forward 4 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00021", "step_idx": 4, "image": "images/val_ep_00021_step_004.png", "instruction": "Move forward 4 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00022", "step_idx": 0, "image": "images/val_ep_00022_step_000.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00022", "step_idx": 1, "image": "images/val_ep_00022_step_001.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00022", "step_idx": 2, "image": "images/val_ep_00022_step_002.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00022", "step_idx": 3, "image": "images/val_ep_00022_step_003.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00022", "step_idx": 4, "image": "images/val_ep_00022_step_004.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00022", "step_idx": 5, "image": "images/val_ep_00022_step_005.png", "instruction": "Move forward 5 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00023", "step_idx": 0, "image": "images/val_ep_00023_step_000.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00023", "step_idx": 1, "image": "images/val_ep_00023_step_001.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00023", "step_idx": 2, "image": "images/val_ep_00023_step_002.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00023", "step_idx": 3, "image": "images/val_ep_00023_step_003.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00023", "step_idx": 4, "image": "images/val_ep_00023_step_004.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00023", "step_idx": 5, "image": "images/val_ep_00023_step_005.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00023", "step_idx": 6, "image": "images/val_ep_00023_step_006.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00023", "step_idx": 7, "image": "images/val_ep_00023_step_007.png", "instruction": "Turn right and move forward 6 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00024", "step_idx": 0, "image": "images/val_ep_00024_step_000.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00024", "step_idx": 1, "image": "images/val_ep_00024_step_001.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00024", "step_idx": 2, "image": "images/val_ep_00024_step_002.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00024", "step_idx": 3, "image": "images/val_ep_00024_step_003.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00024", "step_idx": 4, "image": "images/val_ep_00024_step_004.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00024", "step_idx": 5, "image": "images/val_ep_00024_step_005.png", "instruction": "Move forward 5 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00025", "step_idx": 0, "image": "images/val_ep_00025_step_000.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00025", "step_idx": 1, "image": "images/val_ep_00025_step_001.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00025", "step_idx": 2, "image": "images/val_ep_00025_step_002.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00025", "step_idx": 3, "image": "images/val_ep_00025_step_003.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00025", "step_idx": 4, "image": "images/val_ep_00025_step_004.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00025", "step_idx": 5, "image": "images/val_ep_00025_step_005.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00026", "step_idx": 0, "image": "images/val_ep_00026_step_000.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00026", "step_idx": 1, "image": "images/val_ep_00026_step_001.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00026", "step_idx": 2, "image": "images/val_ep_00026_step_002.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00026", "step_idx": 3, "image": "images/val_ep_00026_step_003.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00027", "step_idx": 0, "image": "images/val_ep_00027_step_000.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00027", "step_idx": 1, "image": "images/val_ep_00027_step_001.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00027", "step_idx": 2, "image": "images/val_ep_00027_step_002.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00027", "step_idx": 3, "image": "images/val_ep_00027_step_003.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00028", "step_idx": 0, "image": "images/val_ep_00028_step_000.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00028", "step_idx": 1, "image": "images/val_ep_00028_step_001.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 2, "image": "images/val_ep_00028_step_002.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 3, "image": "images/val_ep_00028_step_003.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 4, "image": "images/val_ep_00028_step_004.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 5, "image": "images/val_ep_00028_step_005.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 6, "image": "images/val_ep_00028_step_006.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 7, "image": "images/val_ep_00028_step_007.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 8, "image": "images/val_ep_00028_step_008.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00028", "step_idx": 9, "image": "images/val_ep_00028_step_009.png", "instruction": "Turn left and move forward 8 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00029", "step_idx": 0, "image": "images/val_ep_00029_step_000.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00029", "step_idx": 1, "image": "images/val_ep_00029_step_001.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 2, "image": "images/val_ep_00029_step_002.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 3, "image": "images/val_ep_00029_step_003.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 4, "image": "images/val_ep_00029_step_004.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 5, "image": "images/val_ep_00029_step_005.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 6, "image": "images/val_ep_00029_step_006.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 7, "image": "images/val_ep_00029_step_007.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 8, "image": "images/val_ep_00029_step_008.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00029", "step_idx": 9, "image": "images/val_ep_00029_step_009.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00030", "step_idx": 0, "image": "images/val_ep_00030_step_000.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00030", "step_idx": 1, "image": "images/val_ep_00030_step_001.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00030", "step_idx": 2, "image": "images/val_ep_00030_step_002.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00030", "step_idx": 3, "image": "images/val_ep_00030_step_003.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00030", "step_idx": 4, "image": "images/val_ep_00030_step_004.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00030", "step_idx": 5, "image": "images/val_ep_00030_step_005.png", "instruction": "Move forward 5 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00031", "step_idx": 0, "image": "images/val_ep_00031_step_000.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00031", "step_idx": 1, "image": "images/val_ep_00031_step_001.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00031", "step_idx": 2, "image": "images/val_ep_00031_step_002.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00031", "step_idx": 3, "image": "images/val_ep_00031_step_003.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00031", "step_idx": 4, "image": "images/val_ep_00031_step_004.png", "instruction": "Move forward 5 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00031", "step_idx": 5, "image": "images/val_ep_00031_step_005.png", "instruction": "Move forward 5 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00032", "step_idx": 0, "image": "images/val_ep_00032_step_000.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00032", "step_idx": 1, "image": "images/val_ep_00032_step_001.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00032", "step_idx": 2, "image": "images/val_ep_00032_step_002.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00032", "step_idx": 3, "image": "images/val_ep_00032_step_003.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00032", "step_idx": 4, "image": "images/val_ep_00032_step_004.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00032", "step_idx": 5, "image": "images/val_ep_00032_step_005.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00033", "step_idx": 0, "image": "images/val_ep_00033_step_000.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 1, "image": "images/val_ep_00033_step_001.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 2, "image": "images/val_ep_00033_step_002.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 3, "image": "images/val_ep_00033_step_003.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 4, "image": "images/val_ep_00033_step_004.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 5, "image": "images/val_ep_00033_step_005.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 6, "image": "images/val_ep_00033_step_006.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 7, "image": "images/val_ep_00033_step_007.png", "instruction": "Move forward 8 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00033", "step_idx": 8, "image": "images/val_ep_00033_step_008.png", "instruction": "Move forward 8 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00034", "step_idx": 0, "image": "images/val_ep_00034_step_000.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00034", "step_idx": 1, "image": "images/val_ep_00034_step_001.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00034", "step_idx": 2, "image": "images/val_ep_00034_step_002.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00034", "step_idx": 3, "image": "images/val_ep_00034_step_003.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00034", "step_idx": 4, "image": "images/val_ep_00034_step_004.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00034", "step_idx": 5, "image": "images/val_ep_00034_step_005.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00034", "step_idx": 6, "image": "images/val_ep_00034_step_006.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00035", "step_idx": 0, "image": "images/val_ep_00035_step_000.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 1}
+{"episode_id": "val_ep_00035", "step_idx": 1, "image": "images/val_ep_00035_step_001.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00035", "step_idx": 2, "image": "images/val_ep_00035_step_002.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00035", "step_idx": 3, "image": "images/val_ep_00035_step_003.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00035", "step_idx": 4, "image": "images/val_ep_00035_step_004.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00035", "step_idx": 5, "image": "images/val_ep_00035_step_005.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00035", "step_idx": 6, "image": "images/val_ep_00035_step_006.png", "instruction": "Turn left and move forward 5 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00036", "step_idx": 0, "image": "images/val_ep_00036_step_000.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00036", "step_idx": 1, "image": "images/val_ep_00036_step_001.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00036", "step_idx": 2, "image": "images/val_ep_00036_step_002.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00036", "step_idx": 3, "image": "images/val_ep_00036_step_003.png", "instruction": "Turn right and move forward 2 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00037", "step_idx": 0, "image": "images/val_ep_00037_step_000.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00037", "step_idx": 1, "image": "images/val_ep_00037_step_001.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00037", "step_idx": 2, "image": "images/val_ep_00037_step_002.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00037", "step_idx": 3, "image": "images/val_ep_00037_step_003.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00037", "step_idx": 4, "image": "images/val_ep_00037_step_004.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00038", "step_idx": 0, "image": "images/val_ep_00038_step_000.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00038", "step_idx": 1, "image": "images/val_ep_00038_step_001.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00038", "step_idx": 2, "image": "images/val_ep_00038_step_002.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00038", "step_idx": 3, "image": "images/val_ep_00038_step_003.png", "instruction": "Move forward 3 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00039", "step_idx": 0, "image": "images/val_ep_00039_step_000.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00039", "step_idx": 1, "image": "images/val_ep_00039_step_001.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00039", "step_idx": 2, "image": "images/val_ep_00039_step_002.png", "instruction": "Move forward 3 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00039", "step_idx": 3, "image": "images/val_ep_00039_step_003.png", "instruction": "Move forward 3 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00040", "step_idx": 0, "image": "images/val_ep_00040_step_000.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00040", "step_idx": 1, "image": "images/val_ep_00040_step_001.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00040", "step_idx": 2, "image": "images/val_ep_00040_step_002.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00040", "step_idx": 3, "image": "images/val_ep_00040_step_003.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00040", "step_idx": 4, "image": "images/val_ep_00040_step_004.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00040", "step_idx": 5, "image": "images/val_ep_00040_step_005.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00040", "step_idx": 6, "image": "images/val_ep_00040_step_006.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00041", "step_idx": 0, "image": "images/val_ep_00041_step_000.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00041", "step_idx": 1, "image": "images/val_ep_00041_step_001.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00041", "step_idx": 2, "image": "images/val_ep_00041_step_002.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00041", "step_idx": 3, "image": "images/val_ep_00041_step_003.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00041", "step_idx": 4, "image": "images/val_ep_00041_step_004.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00042", "step_idx": 0, "image": "images/val_ep_00042_step_000.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00042", "step_idx": 1, "image": "images/val_ep_00042_step_001.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 2, "image": "images/val_ep_00042_step_002.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 3, "image": "images/val_ep_00042_step_003.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 4, "image": "images/val_ep_00042_step_004.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 5, "image": "images/val_ep_00042_step_005.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 6, "image": "images/val_ep_00042_step_006.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 7, "image": "images/val_ep_00042_step_007.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 8, "image": "images/val_ep_00042_step_008.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00042", "step_idx": 9, "image": "images/val_ep_00042_step_009.png", "instruction": "Turn right and move forward 8 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00043", "step_idx": 0, "image": "images/val_ep_00043_step_000.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00043", "step_idx": 1, "image": "images/val_ep_00043_step_001.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00043", "step_idx": 2, "image": "images/val_ep_00043_step_002.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00043", "step_idx": 3, "image": "images/val_ep_00043_step_003.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00043", "step_idx": 4, "image": "images/val_ep_00043_step_004.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00043", "step_idx": 5, "image": "images/val_ep_00043_step_005.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00043", "step_idx": 6, "image": "images/val_ep_00043_step_006.png", "instruction": "Turn right and move forward 5 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00044", "step_idx": 0, "image": "images/val_ep_00044_step_000.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00044", "step_idx": 1, "image": "images/val_ep_00044_step_001.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00044", "step_idx": 2, "image": "images/val_ep_00044_step_002.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00044", "step_idx": 3, "image": "images/val_ep_00044_step_003.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00044", "step_idx": 4, "image": "images/val_ep_00044_step_004.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00044", "step_idx": 5, "image": "images/val_ep_00044_step_005.png", "instruction": "Turn right and move forward 4 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00045", "step_idx": 0, "image": "images/val_ep_00045_step_000.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00045", "step_idx": 1, "image": "images/val_ep_00045_step_001.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00045", "step_idx": 2, "image": "images/val_ep_00045_step_002.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00045", "step_idx": 3, "image": "images/val_ep_00045_step_003.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00045", "step_idx": 4, "image": "images/val_ep_00045_step_004.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00045", "step_idx": 5, "image": "images/val_ep_00045_step_005.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00045", "step_idx": 6, "image": "images/val_ep_00045_step_006.png", "instruction": "Move forward 6 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00046", "step_idx": 0, "image": "images/val_ep_00046_step_000.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00046", "step_idx": 1, "image": "images/val_ep_00046_step_001.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00046", "step_idx": 2, "image": "images/val_ep_00046_step_002.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00046", "step_idx": 3, "image": "images/val_ep_00046_step_003.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00046", "step_idx": 4, "image": "images/val_ep_00046_step_004.png", "instruction": "Turn right and move forward 3 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00047", "step_idx": 0, "image": "images/val_ep_00047_step_000.png", "instruction": "Move forward 2 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00047", "step_idx": 1, "image": "images/val_ep_00047_step_001.png", "instruction": "Move forward 2 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00047", "step_idx": 2, "image": "images/val_ep_00047_step_002.png", "instruction": "Move forward 2 steps and then stop.", "action": 3}
+{"episode_id": "val_ep_00048", "step_idx": 0, "image": "images/val_ep_00048_step_000.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 2}
+{"episode_id": "val_ep_00048", "step_idx": 1, "image": "images/val_ep_00048_step_001.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00048", "step_idx": 2, "image": "images/val_ep_00048_step_002.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00048", "step_idx": 3, "image": "images/val_ep_00048_step_003.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00048", "step_idx": 4, "image": "images/val_ep_00048_step_004.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00048", "step_idx": 5, "image": "images/val_ep_00048_step_005.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00048", "step_idx": 6, "image": "images/val_ep_00048_step_006.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00048", "step_idx": 7, "image": "images/val_ep_00048_step_007.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 0}
+{"episode_id": "val_ep_00048", "step_idx": 8, "image": "images/val_ep_00048_step_008.png", "instruction": "Turn right and move forward 7 steps, then stop.", "action": 3}
+{"episode_id": "val_ep_00049", "step_idx": 0, "image": "images/val_ep_00049_step_000.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00049", "step_idx": 1, "image": "images/val_ep_00049_step_001.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00049", "step_idx": 2, "image": "images/val_ep_00049_step_002.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00049", "step_idx": 3, "image": "images/val_ep_00049_step_003.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00049", "step_idx": 4, "image": "images/val_ep_00049_step_004.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00049", "step_idx": 5, "image": "images/val_ep_00049_step_005.png", "instruction": "Move forward 6 steps and then stop.", "action": 0}
+{"episode_id": "val_ep_00049", "step_idx": 6, "image": "images/val_ep_00049_step_006.png", "instruction": "Move forward 6 steps and then stop.", "action": 3}

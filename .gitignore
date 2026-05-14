@@ -1,0 +1,22 @@
+# Ignore large data and model files (>100MB)
+*.pt
+*.ply
+*.glb
+*.zip
+
+# Ignore large artifact directories
+task 3/data_large/
+task 3/artifacts_large/checkpoints/
+task 4/data/
+task 5/artifacts/
+task2_vln/outputs/
+
+# Ignore embedded repositories (causes git submodule errors)
+habitat-lab/
+habitat-sim/
+
+# Python/System caches
+__pycache__/
+*.pyc
+.tmp/
+.ipynb_checkpoints/

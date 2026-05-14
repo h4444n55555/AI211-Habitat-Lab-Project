@@ -1,0 +1,15 @@
+nohup: ignoring input
+Starting overnight training pipeline across all tasks...
+=========================================================
+Running Task 2: Baseline VLN Training
+=========================================================
+/home/hans/miniconda3/envs/habitat/lib/python3.9/site-packages/requests/__init__.py:86: RequestsDependencyWarning: Unable to find acceptable character detection dependency (chardet or charset_normalizer).
+  warnings.warn(
+Using device: cuda
+  GPU: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+Traceback (most recent call last):
+  File "/home/hans/habitat/task2_vln/train.py", line 284, in <module>
+    main()
+  File "/home/hans/habitat/task2_vln/train.py", line 145, in main
+    print(f"  GPU Memory: {torch.cuda.get_device_properties(0).total_mem / 1e9:.1f} GB")
+AttributeError: 'torch._C._CudaDeviceProperties' object has no attribute 'total_mem'

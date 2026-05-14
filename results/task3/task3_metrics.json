@@ -1,0 +1,19 @@
+{
+  "device": "cuda",
+  "gpu_name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+  "best_run": {
+    "run_name": "lr_0p0002_bs_8",
+    "best_val_acc": 0.6690997566909975,
+    "final_val_acc": 0.5912408759124088,
+    "final_val_loss": 1.3675669727534274,
+    "lr": 0.0002,
+    "batch_size": 8
+  },
+  "SR": 0.05,
+  "SPL": 0.05,
+  "OSR": 0.6,
+  "NE": 1.6774497155100108,
+  "num_eval_episodes": 20,
+  "cuda_requested": true,
+  "cuda_available": true
+}

@@ -1,0 +1,16 @@
+{
+  "device": "cpu",
+  "best_run": {
+    "run_name": "lr_0p0001_bs_8",
+    "best_val_acc": 1.0,
+    "final_val_acc": 1.0,
+    "final_val_loss": 0.00023428441095806727,
+    "lr": 0.0001,
+    "batch_size": 8
+  },
+  "SR": 1.0,
+  "SPL": 1.0,
+  "num_eval_episodes": 50,
+  "cuda_requested": true,
+  "cuda_available": false
+}

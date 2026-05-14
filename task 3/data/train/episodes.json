@@ -1,0 +1,3036 @@
+[
+  {
+    "episode_id": "train_ep_00000",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00000_step_000.png",
+      "images/train_ep_00000_step_001.png",
+      "images/train_ep_00000_step_002.png",
+      "images/train_ep_00000_step_003.png",
+      "images/train_ep_00000_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00001",
+    "instruction": "Turn left and move forward 7 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00001_step_000.png",
+      "images/train_ep_00001_step_001.png",
+      "images/train_ep_00001_step_002.png",
+      "images/train_ep_00001_step_003.png",
+      "images/train_ep_00001_step_004.png",
+      "images/train_ep_00001_step_005.png",
+      "images/train_ep_00001_step_006.png",
+      "images/train_ep_00001_step_007.png",
+      "images/train_ep_00001_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00002",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00002_step_000.png",
+      "images/train_ep_00002_step_001.png",
+      "images/train_ep_00002_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00003",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00003_step_000.png",
+      "images/train_ep_00003_step_001.png",
+      "images/train_ep_00003_step_002.png",
+      "images/train_ep_00003_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00004",
+    "instruction": "Turn left and move forward 6 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00004_step_000.png",
+      "images/train_ep_00004_step_001.png",
+      "images/train_ep_00004_step_002.png",
+      "images/train_ep_00004_step_003.png",
+      "images/train_ep_00004_step_004.png",
+      "images/train_ep_00004_step_005.png",
+      "images/train_ep_00004_step_006.png",
+      "images/train_ep_00004_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00005",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00005_step_000.png",
+      "images/train_ep_00005_step_001.png",
+      "images/train_ep_00005_step_002.png",
+      "images/train_ep_00005_step_003.png",
+      "images/train_ep_00005_step_004.png",
+      "images/train_ep_00005_step_005.png",
+      "images/train_ep_00005_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00006",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00006_step_000.png",
+      "images/train_ep_00006_step_001.png",
+      "images/train_ep_00006_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00007",
+    "instruction": "Move forward 5 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00007_step_000.png",
+      "images/train_ep_00007_step_001.png",
+      "images/train_ep_00007_step_002.png",
+      "images/train_ep_00007_step_003.png",
+      "images/train_ep_00007_step_004.png",
+      "images/train_ep_00007_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00008",
+    "instruction": "Turn left and move forward 2 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00008_step_000.png",
+      "images/train_ep_00008_step_001.png",
+      "images/train_ep_00008_step_002.png",
+      "images/train_ep_00008_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00009",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00009_step_000.png",
+      "images/train_ep_00009_step_001.png",
+      "images/train_ep_00009_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00010",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00010_step_000.png",
+      "images/train_ep_00010_step_001.png",
+      "images/train_ep_00010_step_002.png",
+      "images/train_ep_00010_step_003.png",
+      "images/train_ep_00010_step_004.png",
+      "images/train_ep_00010_step_005.png",
+      "images/train_ep_00010_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00011",
+    "instruction": "Move forward 8 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00011_step_000.png",
+      "images/train_ep_00011_step_001.png",
+      "images/train_ep_00011_step_002.png",
+      "images/train_ep_00011_step_003.png",
+      "images/train_ep_00011_step_004.png",
+      "images/train_ep_00011_step_005.png",
+      "images/train_ep_00011_step_006.png",
+      "images/train_ep_00011_step_007.png",
+      "images/train_ep_00011_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00012",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00012_step_000.png",
+      "images/train_ep_00012_step_001.png",
+      "images/train_ep_00012_step_002.png",
+      "images/train_ep_00012_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00013",
+    "instruction": "Move forward 7 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00013_step_000.png",
+      "images/train_ep_00013_step_001.png",
+      "images/train_ep_00013_step_002.png",
+      "images/train_ep_00013_step_003.png",
+      "images/train_ep_00013_step_004.png",
+      "images/train_ep_00013_step_005.png",
+      "images/train_ep_00013_step_006.png",
+      "images/train_ep_00013_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00014",
+    "instruction": "Turn right and move forward 6 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00014_step_000.png",
+      "images/train_ep_00014_step_001.png",
+      "images/train_ep_00014_step_002.png",
+      "images/train_ep_00014_step_003.png",
+      "images/train_ep_00014_step_004.png",
+      "images/train_ep_00014_step_005.png",
+      "images/train_ep_00014_step_006.png",
+      "images/train_ep_00014_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00015",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00015_step_000.png",
+      "images/train_ep_00015_step_001.png",
+      "images/train_ep_00015_step_002.png",
+      "images/train_ep_00015_step_003.png",
+      "images/train_ep_00015_step_004.png",
+      "images/train_ep_00015_step_005.png",
+      "images/train_ep_00015_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00016",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00016_step_000.png",
+      "images/train_ep_00016_step_001.png",
+      "images/train_ep_00016_step_002.png",
+      "images/train_ep_00016_step_003.png",
+      "images/train_ep_00016_step_004.png",
+      "images/train_ep_00016_step_005.png",
+      "images/train_ep_00016_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00017",
+    "instruction": "Move forward 3 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00017_step_000.png",
+      "images/train_ep_00017_step_001.png",
+      "images/train_ep_00017_step_002.png",
+      "images/train_ep_00017_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00018",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00018_step_000.png",
+      "images/train_ep_00018_step_001.png",
+      "images/train_ep_00018_step_002.png",
+      "images/train_ep_00018_step_003.png",
+      "images/train_ep_00018_step_004.png",
+      "images/train_ep_00018_step_005.png",
+      "images/train_ep_00018_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00019",
+    "instruction": "Move forward 4 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00019_step_000.png",
+      "images/train_ep_00019_step_001.png",
+      "images/train_ep_00019_step_002.png",
+      "images/train_ep_00019_step_003.png",
+      "images/train_ep_00019_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00020",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00020_step_000.png",
+      "images/train_ep_00020_step_001.png",
+      "images/train_ep_00020_step_002.png",
+      "images/train_ep_00020_step_003.png",
+      "images/train_ep_00020_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00021",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00021_step_000.png",
+      "images/train_ep_00021_step_001.png",
+      "images/train_ep_00021_step_002.png",
+      "images/train_ep_00021_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00022",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00022_step_000.png",
+      "images/train_ep_00022_step_001.png",
+      "images/train_ep_00022_step_002.png",
+      "images/train_ep_00022_step_003.png",
+      "images/train_ep_00022_step_004.png",
+      "images/train_ep_00022_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00023",
+    "instruction": "Turn right and move forward 8 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00023_step_000.png",
+      "images/train_ep_00023_step_001.png",
+      "images/train_ep_00023_step_002.png",
+      "images/train_ep_00023_step_003.png",
+      "images/train_ep_00023_step_004.png",
+      "images/train_ep_00023_step_005.png",
+      "images/train_ep_00023_step_006.png",
+      "images/train_ep_00023_step_007.png",
+      "images/train_ep_00023_step_008.png",
+      "images/train_ep_00023_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00024",
+    "instruction": "Turn right and move forward 3 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00024_step_000.png",
+      "images/train_ep_00024_step_001.png",
+      "images/train_ep_00024_step_002.png",
+      "images/train_ep_00024_step_003.png",
+      "images/train_ep_00024_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00025",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00025_step_000.png",
+      "images/train_ep_00025_step_001.png",
+      "images/train_ep_00025_step_002.png",
+      "images/train_ep_00025_step_003.png",
+      "images/train_ep_00025_step_004.png",
+      "images/train_ep_00025_step_005.png",
+      "images/train_ep_00025_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00026",
+    "instruction": "Turn right and move forward 7 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00026_step_000.png",
+      "images/train_ep_00026_step_001.png",
+      "images/train_ep_00026_step_002.png",
+      "images/train_ep_00026_step_003.png",
+      "images/train_ep_00026_step_004.png",
+      "images/train_ep_00026_step_005.png",
+      "images/train_ep_00026_step_006.png",
+      "images/train_ep_00026_step_007.png",
+      "images/train_ep_00026_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00027",
+    "instruction": "Move forward 4 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00027_step_000.png",
+      "images/train_ep_00027_step_001.png",
+      "images/train_ep_00027_step_002.png",
+      "images/train_ep_00027_step_003.png",
+      "images/train_ep_00027_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00028",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00028_step_000.png",
+      "images/train_ep_00028_step_001.png",
+      "images/train_ep_00028_step_002.png",
+      "images/train_ep_00028_step_003.png",
+      "images/train_ep_00028_step_004.png",
+      "images/train_ep_00028_step_005.png",
+      "images/train_ep_00028_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00029",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00029_step_000.png",
+      "images/train_ep_00029_step_001.png",
+      "images/train_ep_00029_step_002.png",
+      "images/train_ep_00029_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00030",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00030_step_000.png",
+      "images/train_ep_00030_step_001.png",
+      "images/train_ep_00030_step_002.png",
+      "images/train_ep_00030_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00031",
+    "instruction": "Turn right and move forward 3 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00031_step_000.png",
+      "images/train_ep_00031_step_001.png",
+      "images/train_ep_00031_step_002.png",
+      "images/train_ep_00031_step_003.png",
+      "images/train_ep_00031_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00032",
+    "instruction": "Turn left and move forward 7 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00032_step_000.png",
+      "images/train_ep_00032_step_001.png",
+      "images/train_ep_00032_step_002.png",
+      "images/train_ep_00032_step_003.png",
+      "images/train_ep_00032_step_004.png",
+      "images/train_ep_00032_step_005.png",
+      "images/train_ep_00032_step_006.png",
+      "images/train_ep_00032_step_007.png",
+      "images/train_ep_00032_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00033",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00033_step_000.png",
+      "images/train_ep_00033_step_001.png",
+      "images/train_ep_00033_step_002.png",
+      "images/train_ep_00033_step_003.png",
+      "images/train_ep_00033_step_004.png",
+      "images/train_ep_00033_step_005.png",
+      "images/train_ep_00033_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00034",
+    "instruction": "Turn left and move forward 5 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00034_step_000.png",
+      "images/train_ep_00034_step_001.png",
+      "images/train_ep_00034_step_002.png",
+      "images/train_ep_00034_step_003.png",
+      "images/train_ep_00034_step_004.png",
+      "images/train_ep_00034_step_005.png",
+      "images/train_ep_00034_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00035",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00035_step_000.png",
+      "images/train_ep_00035_step_001.png",
+      "images/train_ep_00035_step_002.png",
+      "images/train_ep_00035_step_003.png",
+      "images/train_ep_00035_step_004.png",
+      "images/train_ep_00035_step_005.png",
+      "images/train_ep_00035_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00036",
+    "instruction": "Turn left and move forward 4 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00036_step_000.png",
+      "images/train_ep_00036_step_001.png",
+      "images/train_ep_00036_step_002.png",
+      "images/train_ep_00036_step_003.png",
+      "images/train_ep_00036_step_004.png",
+      "images/train_ep_00036_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00037",
+    "instruction": "Move forward 8 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00037_step_000.png",
+      "images/train_ep_00037_step_001.png",
+      "images/train_ep_00037_step_002.png",
+      "images/train_ep_00037_step_003.png",
+      "images/train_ep_00037_step_004.png",
+      "images/train_ep_00037_step_005.png",
+      "images/train_ep_00037_step_006.png",
+      "images/train_ep_00037_step_007.png",
+      "images/train_ep_00037_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00038",
+    "instruction": "Move forward 7 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00038_step_000.png",
+      "images/train_ep_00038_step_001.png",
+      "images/train_ep_00038_step_002.png",
+      "images/train_ep_00038_step_003.png",
+      "images/train_ep_00038_step_004.png",
+      "images/train_ep_00038_step_005.png",
+      "images/train_ep_00038_step_006.png",
+      "images/train_ep_00038_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00039",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00039_step_000.png",
+      "images/train_ep_00039_step_001.png",
+      "images/train_ep_00039_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00040",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00040_step_000.png",
+      "images/train_ep_00040_step_001.png",
+      "images/train_ep_00040_step_002.png",
+      "images/train_ep_00040_step_003.png",
+      "images/train_ep_00040_step_004.png",
+      "images/train_ep_00040_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00041",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00041_step_000.png",
+      "images/train_ep_00041_step_001.png",
+      "images/train_ep_00041_step_002.png",
+      "images/train_ep_00041_step_003.png",
+      "images/train_ep_00041_step_004.png",
+      "images/train_ep_00041_step_005.png",
+      "images/train_ep_00041_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00042",
+    "instruction": "Turn left and move forward 7 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00042_step_000.png",
+      "images/train_ep_00042_step_001.png",
+      "images/train_ep_00042_step_002.png",
+      "images/train_ep_00042_step_003.png",
+      "images/train_ep_00042_step_004.png",
+      "images/train_ep_00042_step_005.png",
+      "images/train_ep_00042_step_006.png",
+      "images/train_ep_00042_step_007.png",
+      "images/train_ep_00042_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00043",
+    "instruction": "Turn left and move forward 4 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00043_step_000.png",
+      "images/train_ep_00043_step_001.png",
+      "images/train_ep_00043_step_002.png",
+      "images/train_ep_00043_step_003.png",
+      "images/train_ep_00043_step_004.png",
+      "images/train_ep_00043_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00044",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00044_step_000.png",
+      "images/train_ep_00044_step_001.png",
+      "images/train_ep_00044_step_002.png",
+      "images/train_ep_00044_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00045",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00045_step_000.png",
+      "images/train_ep_00045_step_001.png",
+      "images/train_ep_00045_step_002.png",
+      "images/train_ep_00045_step_003.png",
+      "images/train_ep_00045_step_004.png",
+      "images/train_ep_00045_step_005.png",
+      "images/train_ep_00045_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00046",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00046_step_000.png",
+      "images/train_ep_00046_step_001.png",
+      "images/train_ep_00046_step_002.png",
+      "images/train_ep_00046_step_003.png",
+      "images/train_ep_00046_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00047",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00047_step_000.png",
+      "images/train_ep_00047_step_001.png",
+      "images/train_ep_00047_step_002.png",
+      "images/train_ep_00047_step_003.png",
+      "images/train_ep_00047_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00048",
+    "instruction": "Turn left and move forward 5 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00048_step_000.png",
+      "images/train_ep_00048_step_001.png",
+      "images/train_ep_00048_step_002.png",
+      "images/train_ep_00048_step_003.png",
+      "images/train_ep_00048_step_004.png",
+      "images/train_ep_00048_step_005.png",
+      "images/train_ep_00048_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00049",
+    "instruction": "Move forward 7 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00049_step_000.png",
+      "images/train_ep_00049_step_001.png",
+      "images/train_ep_00049_step_002.png",
+      "images/train_ep_00049_step_003.png",
+      "images/train_ep_00049_step_004.png",
+      "images/train_ep_00049_step_005.png",
+      "images/train_ep_00049_step_006.png",
+      "images/train_ep_00049_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00050",
+    "instruction": "Move forward 8 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00050_step_000.png",
+      "images/train_ep_00050_step_001.png",
+      "images/train_ep_00050_step_002.png",
+      "images/train_ep_00050_step_003.png",
+      "images/train_ep_00050_step_004.png",
+      "images/train_ep_00050_step_005.png",
+      "images/train_ep_00050_step_006.png",
+      "images/train_ep_00050_step_007.png",
+      "images/train_ep_00050_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00051",
+    "instruction": "Turn right and move forward 6 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00051_step_000.png",
+      "images/train_ep_00051_step_001.png",
+      "images/train_ep_00051_step_002.png",
+      "images/train_ep_00051_step_003.png",
+      "images/train_ep_00051_step_004.png",
+      "images/train_ep_00051_step_005.png",
+      "images/train_ep_00051_step_006.png",
+      "images/train_ep_00051_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00052",
+    "instruction": "Turn left and move forward 4 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00052_step_000.png",
+      "images/train_ep_00052_step_001.png",
+      "images/train_ep_00052_step_002.png",
+      "images/train_ep_00052_step_003.png",
+      "images/train_ep_00052_step_004.png",
+      "images/train_ep_00052_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00053",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00053_step_000.png",
+      "images/train_ep_00053_step_001.png",
+      "images/train_ep_00053_step_002.png",
+      "images/train_ep_00053_step_003.png",
+      "images/train_ep_00053_step_004.png",
+      "images/train_ep_00053_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00054",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00054_step_000.png",
+      "images/train_ep_00054_step_001.png",
+      "images/train_ep_00054_step_002.png",
+      "images/train_ep_00054_step_003.png",
+      "images/train_ep_00054_step_004.png",
+      "images/train_ep_00054_step_005.png",
+      "images/train_ep_00054_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00055",
+    "instruction": "Turn right and move forward 8 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00055_step_000.png",
+      "images/train_ep_00055_step_001.png",
+      "images/train_ep_00055_step_002.png",
+      "images/train_ep_00055_step_003.png",
+      "images/train_ep_00055_step_004.png",
+      "images/train_ep_00055_step_005.png",
+      "images/train_ep_00055_step_006.png",
+      "images/train_ep_00055_step_007.png",
+      "images/train_ep_00055_step_008.png",
+      "images/train_ep_00055_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00056",
+    "instruction": "Turn left and move forward 2 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00056_step_000.png",
+      "images/train_ep_00056_step_001.png",
+      "images/train_ep_00056_step_002.png",
+      "images/train_ep_00056_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00057",
+    "instruction": "Move forward 4 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00057_step_000.png",
+      "images/train_ep_00057_step_001.png",
+      "images/train_ep_00057_step_002.png",
+      "images/train_ep_00057_step_003.png",
+      "images/train_ep_00057_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00058",
+    "instruction": "Turn left and move forward 7 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00058_step_000.png",
+      "images/train_ep_00058_step_001.png",
+      "images/train_ep_00058_step_002.png",
+      "images/train_ep_00058_step_003.png",
+      "images/train_ep_00058_step_004.png",
+      "images/train_ep_00058_step_005.png",
+      "images/train_ep_00058_step_006.png",
+      "images/train_ep_00058_step_007.png",
+      "images/train_ep_00058_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00059",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00059_step_000.png",
+      "images/train_ep_00059_step_001.png",
+      "images/train_ep_00059_step_002.png",
+      "images/train_ep_00059_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00060",
+    "instruction": "Move forward 7 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00060_step_000.png",
+      "images/train_ep_00060_step_001.png",
+      "images/train_ep_00060_step_002.png",
+      "images/train_ep_00060_step_003.png",
+      "images/train_ep_00060_step_004.png",
+      "images/train_ep_00060_step_005.png",
+      "images/train_ep_00060_step_006.png",
+      "images/train_ep_00060_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00061",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00061_step_000.png",
+      "images/train_ep_00061_step_001.png",
+      "images/train_ep_00061_step_002.png",
+      "images/train_ep_00061_step_003.png",
+      "images/train_ep_00061_step_004.png",
+      "images/train_ep_00061_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00062",
+    "instruction": "Turn right and move forward 6 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00062_step_000.png",
+      "images/train_ep_00062_step_001.png",
+      "images/train_ep_00062_step_002.png",
+      "images/train_ep_00062_step_003.png",
+      "images/train_ep_00062_step_004.png",
+      "images/train_ep_00062_step_005.png",
+      "images/train_ep_00062_step_006.png",
+      "images/train_ep_00062_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00063",
+    "instruction": "Turn right and move forward 8 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00063_step_000.png",
+      "images/train_ep_00063_step_001.png",
+      "images/train_ep_00063_step_002.png",
+      "images/train_ep_00063_step_003.png",
+      "images/train_ep_00063_step_004.png",
+      "images/train_ep_00063_step_005.png",
+      "images/train_ep_00063_step_006.png",
+      "images/train_ep_00063_step_007.png",
+      "images/train_ep_00063_step_008.png",
+      "images/train_ep_00063_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00064",
+    "instruction": "Turn left and move forward 4 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00064_step_000.png",
+      "images/train_ep_00064_step_001.png",
+      "images/train_ep_00064_step_002.png",
+      "images/train_ep_00064_step_003.png",
+      "images/train_ep_00064_step_004.png",
+      "images/train_ep_00064_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00065",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00065_step_000.png",
+      "images/train_ep_00065_step_001.png",
+      "images/train_ep_00065_step_002.png",
+      "images/train_ep_00065_step_003.png",
+      "images/train_ep_00065_step_004.png",
+      "images/train_ep_00065_step_005.png",
+      "images/train_ep_00065_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00066",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00066_step_000.png",
+      "images/train_ep_00066_step_001.png",
+      "images/train_ep_00066_step_002.png",
+      "images/train_ep_00066_step_003.png",
+      "images/train_ep_00066_step_004.png",
+      "images/train_ep_00066_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00067",
+    "instruction": "Move forward 5 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00067_step_000.png",
+      "images/train_ep_00067_step_001.png",
+      "images/train_ep_00067_step_002.png",
+      "images/train_ep_00067_step_003.png",
+      "images/train_ep_00067_step_004.png",
+      "images/train_ep_00067_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00068",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00068_step_000.png",
+      "images/train_ep_00068_step_001.png",
+      "images/train_ep_00068_step_002.png",
+      "images/train_ep_00068_step_003.png",
+      "images/train_ep_00068_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00069",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00069_step_000.png",
+      "images/train_ep_00069_step_001.png",
+      "images/train_ep_00069_step_002.png",
+      "images/train_ep_00069_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00070",
+    "instruction": "Turn left and move forward 2 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00070_step_000.png",
+      "images/train_ep_00070_step_001.png",
+      "images/train_ep_00070_step_002.png",
+      "images/train_ep_00070_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00071",
+    "instruction": "Move forward 8 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00071_step_000.png",
+      "images/train_ep_00071_step_001.png",
+      "images/train_ep_00071_step_002.png",
+      "images/train_ep_00071_step_003.png",
+      "images/train_ep_00071_step_004.png",
+      "images/train_ep_00071_step_005.png",
+      "images/train_ep_00071_step_006.png",
+      "images/train_ep_00071_step_007.png",
+      "images/train_ep_00071_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00072",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00072_step_000.png",
+      "images/train_ep_00072_step_001.png",
+      "images/train_ep_00072_step_002.png",
+      "images/train_ep_00072_step_003.png",
+      "images/train_ep_00072_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00073",
+    "instruction": "Turn right and move forward 3 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00073_step_000.png",
+      "images/train_ep_00073_step_001.png",
+      "images/train_ep_00073_step_002.png",
+      "images/train_ep_00073_step_003.png",
+      "images/train_ep_00073_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00074",
+    "instruction": "Turn left and move forward 5 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00074_step_000.png",
+      "images/train_ep_00074_step_001.png",
+      "images/train_ep_00074_step_002.png",
+      "images/train_ep_00074_step_003.png",
+      "images/train_ep_00074_step_004.png",
+      "images/train_ep_00074_step_005.png",
+      "images/train_ep_00074_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00075",
+    "instruction": "Turn left and move forward 2 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00075_step_000.png",
+      "images/train_ep_00075_step_001.png",
+      "images/train_ep_00075_step_002.png",
+      "images/train_ep_00075_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00076",
+    "instruction": "Move forward 5 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00076_step_000.png",
+      "images/train_ep_00076_step_001.png",
+      "images/train_ep_00076_step_002.png",
+      "images/train_ep_00076_step_003.png",
+      "images/train_ep_00076_step_004.png",
+      "images/train_ep_00076_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00077",
+    "instruction": "Turn left and move forward 6 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00077_step_000.png",
+      "images/train_ep_00077_step_001.png",
+      "images/train_ep_00077_step_002.png",
+      "images/train_ep_00077_step_003.png",
+      "images/train_ep_00077_step_004.png",
+      "images/train_ep_00077_step_005.png",
+      "images/train_ep_00077_step_006.png",
+      "images/train_ep_00077_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00078",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00078_step_000.png",
+      "images/train_ep_00078_step_001.png",
+      "images/train_ep_00078_step_002.png",
+      "images/train_ep_00078_step_003.png",
+      "images/train_ep_00078_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00079",
+    "instruction": "Turn left and move forward 8 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00079_step_000.png",
+      "images/train_ep_00079_step_001.png",
+      "images/train_ep_00079_step_002.png",
+      "images/train_ep_00079_step_003.png",
+      "images/train_ep_00079_step_004.png",
+      "images/train_ep_00079_step_005.png",
+      "images/train_ep_00079_step_006.png",
+      "images/train_ep_00079_step_007.png",
+      "images/train_ep_00079_step_008.png",
+      "images/train_ep_00079_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00080",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00080_step_000.png",
+      "images/train_ep_00080_step_001.png",
+      "images/train_ep_00080_step_002.png",
+      "images/train_ep_00080_step_003.png",
+      "images/train_ep_00080_step_004.png",
+      "images/train_ep_00080_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00081",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00081_step_000.png",
+      "images/train_ep_00081_step_001.png",
+      "images/train_ep_00081_step_002.png",
+      "images/train_ep_00081_step_003.png",
+      "images/train_ep_00081_step_004.png",
+      "images/train_ep_00081_step_005.png",
+      "images/train_ep_00081_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00082",
+    "instruction": "Turn left and move forward 7 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00082_step_000.png",
+      "images/train_ep_00082_step_001.png",
+      "images/train_ep_00082_step_002.png",
+      "images/train_ep_00082_step_003.png",
+      "images/train_ep_00082_step_004.png",
+      "images/train_ep_00082_step_005.png",
+      "images/train_ep_00082_step_006.png",
+      "images/train_ep_00082_step_007.png",
+      "images/train_ep_00082_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00083",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00083_step_000.png",
+      "images/train_ep_00083_step_001.png",
+      "images/train_ep_00083_step_002.png",
+      "images/train_ep_00083_step_003.png",
+      "images/train_ep_00083_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00084",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00084_step_000.png",
+      "images/train_ep_00084_step_001.png",
+      "images/train_ep_00084_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00085",
+    "instruction": "Move forward 3 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00085_step_000.png",
+      "images/train_ep_00085_step_001.png",
+      "images/train_ep_00085_step_002.png",
+      "images/train_ep_00085_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00086",
+    "instruction": "Move forward 7 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00086_step_000.png",
+      "images/train_ep_00086_step_001.png",
+      "images/train_ep_00086_step_002.png",
+      "images/train_ep_00086_step_003.png",
+      "images/train_ep_00086_step_004.png",
+      "images/train_ep_00086_step_005.png",
+      "images/train_ep_00086_step_006.png",
+      "images/train_ep_00086_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00087",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00087_step_000.png",
+      "images/train_ep_00087_step_001.png",
+      "images/train_ep_00087_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00088",
+    "instruction": "Turn left and move forward 8 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00088_step_000.png",
+      "images/train_ep_00088_step_001.png",
+      "images/train_ep_00088_step_002.png",
+      "images/train_ep_00088_step_003.png",
+      "images/train_ep_00088_step_004.png",
+      "images/train_ep_00088_step_005.png",
+      "images/train_ep_00088_step_006.png",
+      "images/train_ep_00088_step_007.png",
+      "images/train_ep_00088_step_008.png",
+      "images/train_ep_00088_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00089",
+    "instruction": "Turn right and move forward 3 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00089_step_000.png",
+      "images/train_ep_00089_step_001.png",
+      "images/train_ep_00089_step_002.png",
+      "images/train_ep_00089_step_003.png",
+      "images/train_ep_00089_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00090",
+    "instruction": "Turn left and move forward 4 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00090_step_000.png",
+      "images/train_ep_00090_step_001.png",
+      "images/train_ep_00090_step_002.png",
+      "images/train_ep_00090_step_003.png",
+      "images/train_ep_00090_step_004.png",
+      "images/train_ep_00090_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00091",
+    "instruction": "Move forward 3 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00091_step_000.png",
+      "images/train_ep_00091_step_001.png",
+      "images/train_ep_00091_step_002.png",
+      "images/train_ep_00091_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00092",
+    "instruction": "Turn left and move forward 6 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00092_step_000.png",
+      "images/train_ep_00092_step_001.png",
+      "images/train_ep_00092_step_002.png",
+      "images/train_ep_00092_step_003.png",
+      "images/train_ep_00092_step_004.png",
+      "images/train_ep_00092_step_005.png",
+      "images/train_ep_00092_step_006.png",
+      "images/train_ep_00092_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00093",
+    "instruction": "Turn left and move forward 6 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00093_step_000.png",
+      "images/train_ep_00093_step_001.png",
+      "images/train_ep_00093_step_002.png",
+      "images/train_ep_00093_step_003.png",
+      "images/train_ep_00093_step_004.png",
+      "images/train_ep_00093_step_005.png",
+      "images/train_ep_00093_step_006.png",
+      "images/train_ep_00093_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00094",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00094_step_000.png",
+      "images/train_ep_00094_step_001.png",
+      "images/train_ep_00094_step_002.png",
+      "images/train_ep_00094_step_003.png",
+      "images/train_ep_00094_step_004.png",
+      "images/train_ep_00094_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00095",
+    "instruction": "Move forward 7 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00095_step_000.png",
+      "images/train_ep_00095_step_001.png",
+      "images/train_ep_00095_step_002.png",
+      "images/train_ep_00095_step_003.png",
+      "images/train_ep_00095_step_004.png",
+      "images/train_ep_00095_step_005.png",
+      "images/train_ep_00095_step_006.png",
+      "images/train_ep_00095_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00096",
+    "instruction": "Turn right and move forward 6 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00096_step_000.png",
+      "images/train_ep_00096_step_001.png",
+      "images/train_ep_00096_step_002.png",
+      "images/train_ep_00096_step_003.png",
+      "images/train_ep_00096_step_004.png",
+      "images/train_ep_00096_step_005.png",
+      "images/train_ep_00096_step_006.png",
+      "images/train_ep_00096_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00097",
+    "instruction": "Turn right and move forward 7 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00097_step_000.png",
+      "images/train_ep_00097_step_001.png",
+      "images/train_ep_00097_step_002.png",
+      "images/train_ep_00097_step_003.png",
+      "images/train_ep_00097_step_004.png",
+      "images/train_ep_00097_step_005.png",
+      "images/train_ep_00097_step_006.png",
+      "images/train_ep_00097_step_007.png",
+      "images/train_ep_00097_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00098",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00098_step_000.png",
+      "images/train_ep_00098_step_001.png",
+      "images/train_ep_00098_step_002.png",
+      "images/train_ep_00098_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00099",
+    "instruction": "Turn left and move forward 8 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00099_step_000.png",
+      "images/train_ep_00099_step_001.png",
+      "images/train_ep_00099_step_002.png",
+      "images/train_ep_00099_step_003.png",
+      "images/train_ep_00099_step_004.png",
+      "images/train_ep_00099_step_005.png",
+      "images/train_ep_00099_step_006.png",
+      "images/train_ep_00099_step_007.png",
+      "images/train_ep_00099_step_008.png",
+      "images/train_ep_00099_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00100",
+    "instruction": "Turn right and move forward 8 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00100_step_000.png",
+      "images/train_ep_00100_step_001.png",
+      "images/train_ep_00100_step_002.png",
+      "images/train_ep_00100_step_003.png",
+      "images/train_ep_00100_step_004.png",
+      "images/train_ep_00100_step_005.png",
+      "images/train_ep_00100_step_006.png",
+      "images/train_ep_00100_step_007.png",
+      "images/train_ep_00100_step_008.png",
+      "images/train_ep_00100_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00101",
+    "instruction": "Turn right and move forward 5 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00101_step_000.png",
+      "images/train_ep_00101_step_001.png",
+      "images/train_ep_00101_step_002.png",
+      "images/train_ep_00101_step_003.png",
+      "images/train_ep_00101_step_004.png",
+      "images/train_ep_00101_step_005.png",
+      "images/train_ep_00101_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00102",
+    "instruction": "Turn left and move forward 5 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00102_step_000.png",
+      "images/train_ep_00102_step_001.png",
+      "images/train_ep_00102_step_002.png",
+      "images/train_ep_00102_step_003.png",
+      "images/train_ep_00102_step_004.png",
+      "images/train_ep_00102_step_005.png",
+      "images/train_ep_00102_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00103",
+    "instruction": "Turn left and move forward 2 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00103_step_000.png",
+      "images/train_ep_00103_step_001.png",
+      "images/train_ep_00103_step_002.png",
+      "images/train_ep_00103_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00104",
+    "instruction": "Turn left and move forward 7 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00104_step_000.png",
+      "images/train_ep_00104_step_001.png",
+      "images/train_ep_00104_step_002.png",
+      "images/train_ep_00104_step_003.png",
+      "images/train_ep_00104_step_004.png",
+      "images/train_ep_00104_step_005.png",
+      "images/train_ep_00104_step_006.png",
+      "images/train_ep_00104_step_007.png",
+      "images/train_ep_00104_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00105",
+    "instruction": "Turn left and move forward 2 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00105_step_000.png",
+      "images/train_ep_00105_step_001.png",
+      "images/train_ep_00105_step_002.png",
+      "images/train_ep_00105_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00106",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00106_step_000.png",
+      "images/train_ep_00106_step_001.png",
+      "images/train_ep_00106_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00107",
+    "instruction": "Move forward 5 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00107_step_000.png",
+      "images/train_ep_00107_step_001.png",
+      "images/train_ep_00107_step_002.png",
+      "images/train_ep_00107_step_003.png",
+      "images/train_ep_00107_step_004.png",
+      "images/train_ep_00107_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00108",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00108_step_000.png",
+      "images/train_ep_00108_step_001.png",
+      "images/train_ep_00108_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00109",
+    "instruction": "Turn left and move forward 6 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00109_step_000.png",
+      "images/train_ep_00109_step_001.png",
+      "images/train_ep_00109_step_002.png",
+      "images/train_ep_00109_step_003.png",
+      "images/train_ep_00109_step_004.png",
+      "images/train_ep_00109_step_005.png",
+      "images/train_ep_00109_step_006.png",
+      "images/train_ep_00109_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00110",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00110_step_000.png",
+      "images/train_ep_00110_step_001.png",
+      "images/train_ep_00110_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00111",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00111_step_000.png",
+      "images/train_ep_00111_step_001.png",
+      "images/train_ep_00111_step_002.png",
+      "images/train_ep_00111_step_003.png",
+      "images/train_ep_00111_step_004.png",
+      "images/train_ep_00111_step_005.png",
+      "images/train_ep_00111_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00112",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00112_step_000.png",
+      "images/train_ep_00112_step_001.png",
+      "images/train_ep_00112_step_002.png",
+      "images/train_ep_00112_step_003.png",
+      "images/train_ep_00112_step_004.png",
+      "images/train_ep_00112_step_005.png",
+      "images/train_ep_00112_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00113",
+    "instruction": "Move forward 4 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00113_step_000.png",
+      "images/train_ep_00113_step_001.png",
+      "images/train_ep_00113_step_002.png",
+      "images/train_ep_00113_step_003.png",
+      "images/train_ep_00113_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00114",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00114_step_000.png",
+      "images/train_ep_00114_step_001.png",
+      "images/train_ep_00114_step_002.png",
+      "images/train_ep_00114_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00115",
+    "instruction": "Move forward 8 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00115_step_000.png",
+      "images/train_ep_00115_step_001.png",
+      "images/train_ep_00115_step_002.png",
+      "images/train_ep_00115_step_003.png",
+      "images/train_ep_00115_step_004.png",
+      "images/train_ep_00115_step_005.png",
+      "images/train_ep_00115_step_006.png",
+      "images/train_ep_00115_step_007.png",
+      "images/train_ep_00115_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00116",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00116_step_000.png",
+      "images/train_ep_00116_step_001.png",
+      "images/train_ep_00116_step_002.png",
+      "images/train_ep_00116_step_003.png",
+      "images/train_ep_00116_step_004.png",
+      "images/train_ep_00116_step_005.png",
+      "images/train_ep_00116_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00117",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00117_step_000.png",
+      "images/train_ep_00117_step_001.png",
+      "images/train_ep_00117_step_002.png",
+      "images/train_ep_00117_step_003.png",
+      "images/train_ep_00117_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00118",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00118_step_000.png",
+      "images/train_ep_00118_step_001.png",
+      "images/train_ep_00118_step_002.png",
+      "images/train_ep_00118_step_003.png",
+      "images/train_ep_00118_step_004.png",
+      "images/train_ep_00118_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00119",
+    "instruction": "Turn left and move forward 6 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00119_step_000.png",
+      "images/train_ep_00119_step_001.png",
+      "images/train_ep_00119_step_002.png",
+      "images/train_ep_00119_step_003.png",
+      "images/train_ep_00119_step_004.png",
+      "images/train_ep_00119_step_005.png",
+      "images/train_ep_00119_step_006.png",
+      "images/train_ep_00119_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00120",
+    "instruction": "Turn left and move forward 5 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00120_step_000.png",
+      "images/train_ep_00120_step_001.png",
+      "images/train_ep_00120_step_002.png",
+      "images/train_ep_00120_step_003.png",
+      "images/train_ep_00120_step_004.png",
+      "images/train_ep_00120_step_005.png",
+      "images/train_ep_00120_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00121",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00121_step_000.png",
+      "images/train_ep_00121_step_001.png",
+      "images/train_ep_00121_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00122",
+    "instruction": "Turn left and move forward 5 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00122_step_000.png",
+      "images/train_ep_00122_step_001.png",
+      "images/train_ep_00122_step_002.png",
+      "images/train_ep_00122_step_003.png",
+      "images/train_ep_00122_step_004.png",
+      "images/train_ep_00122_step_005.png",
+      "images/train_ep_00122_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00123",
+    "instruction": "Turn left and move forward 5 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00123_step_000.png",
+      "images/train_ep_00123_step_001.png",
+      "images/train_ep_00123_step_002.png",
+      "images/train_ep_00123_step_003.png",
+      "images/train_ep_00123_step_004.png",
+      "images/train_ep_00123_step_005.png",
+      "images/train_ep_00123_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00124",
+    "instruction": "Turn left and move forward 2 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00124_step_000.png",
+      "images/train_ep_00124_step_001.png",
+      "images/train_ep_00124_step_002.png",
+      "images/train_ep_00124_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00125",
+    "instruction": "Move forward 2 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00125_step_000.png",
+      "images/train_ep_00125_step_001.png",
+      "images/train_ep_00125_step_002.png"
+    ],
+    "shortest_path_length": 2
+  },
+  {
+    "episode_id": "train_ep_00126",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00126_step_000.png",
+      "images/train_ep_00126_step_001.png",
+      "images/train_ep_00126_step_002.png",
+      "images/train_ep_00126_step_003.png",
+      "images/train_ep_00126_step_004.png",
+      "images/train_ep_00126_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00127",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00127_step_000.png",
+      "images/train_ep_00127_step_001.png",
+      "images/train_ep_00127_step_002.png",
+      "images/train_ep_00127_step_003.png",
+      "images/train_ep_00127_step_004.png",
+      "images/train_ep_00127_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00128",
+    "instruction": "Turn left and move forward 8 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00128_step_000.png",
+      "images/train_ep_00128_step_001.png",
+      "images/train_ep_00128_step_002.png",
+      "images/train_ep_00128_step_003.png",
+      "images/train_ep_00128_step_004.png",
+      "images/train_ep_00128_step_005.png",
+      "images/train_ep_00128_step_006.png",
+      "images/train_ep_00128_step_007.png",
+      "images/train_ep_00128_step_008.png",
+      "images/train_ep_00128_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00129",
+    "instruction": "Turn right and move forward 3 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00129_step_000.png",
+      "images/train_ep_00129_step_001.png",
+      "images/train_ep_00129_step_002.png",
+      "images/train_ep_00129_step_003.png",
+      "images/train_ep_00129_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00130",
+    "instruction": "Turn right and move forward 2 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00130_step_000.png",
+      "images/train_ep_00130_step_001.png",
+      "images/train_ep_00130_step_002.png",
+      "images/train_ep_00130_step_003.png"
+    ],
+    "shortest_path_length": 3
+  },
+  {
+    "episode_id": "train_ep_00131",
+    "instruction": "Move forward 6 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00131_step_000.png",
+      "images/train_ep_00131_step_001.png",
+      "images/train_ep_00131_step_002.png",
+      "images/train_ep_00131_step_003.png",
+      "images/train_ep_00131_step_004.png",
+      "images/train_ep_00131_step_005.png",
+      "images/train_ep_00131_step_006.png"
+    ],
+    "shortest_path_length": 6
+  },
+  {
+    "episode_id": "train_ep_00132",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00132_step_000.png",
+      "images/train_ep_00132_step_001.png",
+      "images/train_ep_00132_step_002.png",
+      "images/train_ep_00132_step_003.png",
+      "images/train_ep_00132_step_004.png"
+    ],
+    "shortest_path_length": 4
+  },
+  {
+    "episode_id": "train_ep_00133",
+    "instruction": "Turn right and move forward 6 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00133_step_000.png",
+      "images/train_ep_00133_step_001.png",
+      "images/train_ep_00133_step_002.png",
+      "images/train_ep_00133_step_003.png",
+      "images/train_ep_00133_step_004.png",
+      "images/train_ep_00133_step_005.png",
+      "images/train_ep_00133_step_006.png",
+      "images/train_ep_00133_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00134",
+    "instruction": "Move forward 8 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00134_step_000.png",
+      "images/train_ep_00134_step_001.png",
+      "images/train_ep_00134_step_002.png",
+      "images/train_ep_00134_step_003.png",
+      "images/train_ep_00134_step_004.png",
+      "images/train_ep_00134_step_005.png",
+      "images/train_ep_00134_step_006.png",
+      "images/train_ep_00134_step_007.png",
+      "images/train_ep_00134_step_008.png"
+    ],
+    "shortest_path_length": 8
+  },
+  {
+    "episode_id": "train_ep_00135",
+    "instruction": "Turn right and move forward 4 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00135_step_000.png",
+      "images/train_ep_00135_step_001.png",
+      "images/train_ep_00135_step_002.png",
+      "images/train_ep_00135_step_003.png",
+      "images/train_ep_00135_step_004.png",
+      "images/train_ep_00135_step_005.png"
+    ],
+    "shortest_path_length": 5
+  },
+  {
+    "episode_id": "train_ep_00136",
+    "instruction": "Turn right and move forward 8 steps, then stop.",
+    "expert_actions": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00136_step_000.png",
+      "images/train_ep_00136_step_001.png",
+      "images/train_ep_00136_step_002.png",
+      "images/train_ep_00136_step_003.png",
+      "images/train_ep_00136_step_004.png",
+      "images/train_ep_00136_step_005.png",
+      "images/train_ep_00136_step_006.png",
+      "images/train_ep_00136_step_007.png",
+      "images/train_ep_00136_step_008.png",
+      "images/train_ep_00136_step_009.png"
+    ],
+    "shortest_path_length": 9
+  },
+  {
+    "episode_id": "train_ep_00137",
+    "instruction": "Move forward 7 steps and then stop.",
+    "expert_actions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00137_step_000.png",
+      "images/train_ep_00137_step_001.png",
+      "images/train_ep_00137_step_002.png",
+      "images/train_ep_00137_step_003.png",
+      "images/train_ep_00137_step_004.png",
+      "images/train_ep_00137_step_005.png",
+      "images/train_ep_00137_step_006.png",
+      "images/train_ep_00137_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00138",
+    "instruction": "Turn left and move forward 6 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00138_step_000.png",
+      "images/train_ep_00138_step_001.png",
+      "images/train_ep_00138_step_002.png",
+      "images/train_ep_00138_step_003.png",
+      "images/train_ep_00138_step_004.png",
+      "images/train_ep_00138_step_005.png",
+      "images/train_ep_00138_step_006.png",
+      "images/train_ep_00138_step_007.png"
+    ],
+    "shortest_path_length": 7
+  },
+  {
+    "episode_id": "train_ep_00139",
+    "instruction": "Turn left and move forward 3 steps, then stop.",
+    "expert_actions": [
+      1,
+      0,
+      0,
+      0,
+      3
+    ],
+    "image_paths": [
+      "images/train_ep_00139_step_000.png",
+      "images/train_ep_00139_step_001.png",
+      "images/train_ep_00139_step_002.png",
+      "images/train_ep_00139_step_003.png",
+      "images/train_ep_00139_step_004.png"
+    ],
+    "shortest_path_length": 4
+  }
+]

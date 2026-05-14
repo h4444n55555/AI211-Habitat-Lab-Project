@@ -1,0 +1,128 @@
+{"image": "images/val_00000.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00001.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00002.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00003.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00004.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00005.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00006.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00007.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00008.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00009.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00010.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00011.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00012.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00013.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00014.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00015.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00016.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00017.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00018.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00019.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00020.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00021.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00022.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00023.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00024.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00025.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00026.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00027.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00028.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00029.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00030.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00031.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00032.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00033.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00034.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00035.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00036.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00037.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00038.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00039.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00040.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00041.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00042.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00043.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00044.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00045.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00046.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00047.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00048.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00049.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00050.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00051.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00052.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00053.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00054.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00055.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00056.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00057.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00058.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00059.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00060.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00061.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00062.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00063.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00064.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00065.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00066.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00067.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00068.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00069.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00070.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00071.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00072.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00073.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00074.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00075.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00076.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00077.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00078.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00079.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00080.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00081.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00082.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00083.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00084.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00085.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00086.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00087.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00088.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00089.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00090.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00091.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00092.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00093.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00094.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00095.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00096.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00097.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00098.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00099.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00100.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00101.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00102.png", "instruction": "Stop near the target.", "action": 3}
+{"image": "images/val_00103.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00104.png", "instruction": "Stop now.", "action": 3}
+{"image": "images/val_00105.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00106.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00107.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00108.png", "instruction": "Turn right near the wall.", "action": 2}
+{"image": "images/val_00109.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00110.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00111.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00112.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00113.png", "instruction": "Go forward to the next hallway.", "action": 0}
+{"image": "images/val_00114.png", "instruction": "Turn left at the corridor.", "action": 1}
+{"image": "images/val_00115.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00116.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00117.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00118.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00119.png", "instruction": "Halt at the destination.", "action": 3}
+{"image": "images/val_00120.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00121.png", "instruction": "Rotate right and continue.", "action": 2}
+{"image": "images/val_00122.png", "instruction": "Take a left turn.", "action": 1}
+{"image": "images/val_00123.png", "instruction": "Move straight ahead.", "action": 0}
+{"image": "images/val_00124.png", "instruction": "Take a right turn.", "action": 2}
+{"image": "images/val_00125.png", "instruction": "Rotate left and proceed.", "action": 1}
+{"image": "images/val_00126.png", "instruction": "Continue forward.", "action": 0}
+{"image": "images/val_00127.png", "instruction": "Go forward to the next hallway.", "action": 0}
