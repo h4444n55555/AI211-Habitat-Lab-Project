@@ -7,12 +7,23 @@ This repository contains the end-to-end implementation of a learning-based **Vis
 
 The project explores how an autonomous agent can jointly understand egocentric visual perception and natural language instructions to predict discrete motor actions (move forward, turn left, turn right, stop). We implemented a modular multimodal architecture using pretrained **CLIP (ViT-B/16)** encoders fused via cross-attention, enabling generalized semantic reasoning for indoor navigation.
 
+---
+
+## 👥 Team Members
+| Name | Entry No. | GitHub |
+|------|-----------|--------|
+| **Nongmaithem Hans Nathanael Gabil Momin** | 2024AIB1011 | https://github.com/h4444n55555 |
+| **Ravikant Sharma** | 2024AIB1013 | https://github.com/thyravikant |
+| **Rishav Kumar** | 2024AIB1014 | https://github.com/rishavrai563 |
+---
+
 ## Key Contributions
 1. **Multimodal Cross-Attention Policy:** Built a robust baseline using frozen CLIP backbones and cross-attention fusion.
 2. **Generalization & Ablation:** Quantified encoder contributions, demonstrating strong zero-shot resistance to paraphrased instructions (61.2%) and unseen environments (66.6%).
 3. **Lightweight Edge Extension:** Engineered a compressed fusion variant that reduces trainable parameters by **71.7%** with less than a 0.5% drop in accuracy.
 4. **Unified Navigation Paradigm:** Implemented specialized **ObjectNav** and **PointNav** policies, chained together into a continuous, multi-phase sequence (Find object -> Pick up -> Carry to coordinate).
 5. **Interactive Navigation Demo:** Built a real-time OpenCV GUI tool to manually interact with and debug the agent inside the 3D simulator.
+
 
 ## Project Structure & Tasks
 
