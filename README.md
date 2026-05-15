@@ -7,15 +7,6 @@ This repository contains the end-to-end implementation of a learning-based **Vis
 
 The project explores how an autonomous agent can jointly understand egocentric visual perception and natural language instructions to predict discrete motor actions (move forward, turn left, turn right, stop). We implemented a modular multimodal architecture using pretrained **CLIP (ViT-B/16)** encoders fused via cross-attention, enabling generalized semantic reasoning for indoor navigation.
 
----
-
-## 👥 Team Members
-| Name | Entry No. | GitHub |
-|------|-----------|--------|
-| **Nongmaithem Hans Nathanael Gabil Momin** | 2024AIB1011 | https://github.com/h4444n55555 |
-| **Ravikant Sharma** | 2024AIB1013 | https://github.com/thyravikant |
-| **Rishav Kumar** | 2024AIB1014 | https://github.com/rishavrai563 |
----
 
 ## Key Contributions
 1. **Multimodal Cross-Attention Policy:** Built a robust baseline using frozen CLIP backbones and cross-attention fusion.
@@ -69,9 +60,14 @@ python scripts/interactive_nav.py --scene /path/to/mp3d/scene.glb
 - `R` - Reset episode
 - `Q` - Quit and save video recording
 
-## Team / Contributors
-* **Hans (2024AIB1011)**
-* **Ravikant (2024AIB1013)**
-* **Rishav (2024AIB1014)**
+---
+
+## 👥 Team Members
+| Name | Entry No. | GitHub |
+|------|-----------|--------|
+| **Nongmaithem Hans Nathanael Gabil Momin** | 2024AIB1011 | https://github.com/h4444n55555 |
+| **Ravikant Sharma** | 2024AIB1013 | https://github.com/thyravikant |
+| **Rishav Kumar** | 2024AIB1014 | https://github.com/rishavrai563 |
+---
 
 *Indian Institute of Technology Ropar* | *Machine Learning Project 2026*
